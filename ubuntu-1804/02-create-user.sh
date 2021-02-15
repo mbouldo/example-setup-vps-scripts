@@ -1,6 +1,6 @@
 #!/bin/bash -ex
 
-# customable enviroment variables
+# customizable enviroment variables
 GITLABUSER=oanhnn
 SSHUSER=oanhnn
 
